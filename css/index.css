@@ -23,3 +23,27 @@ body {
     background: url(./assets/2.png) 50% 0 fixed;
     position: relative; 	
 } 
+
+#titulo-menu{
+    padding-top: 20px;
+    margin: auto;
+    color: #e6b219;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#lista-menu{
+    margin: auto;
+    padding: 10px;
+    width: 51%;
+}
+
+.list-group-item{
+    background-color: #8b0909;
+    color: #e6b219;
+    
+}
+
+.list-group-item:hover{
+    background-color: #800000;
+}
