@@ -56,3 +56,16 @@ body {
     clear: both;
     display: table;
   }
+
+
+/* Galeria */
+
+#container {
+    background: #DDD;
+    max-width: 1400px;
+}
+
+#item img {
+    display: block;
+    
+}
