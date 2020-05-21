@@ -64,6 +64,12 @@ h1, h3, #titulo-h5{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
+#hor {
+    text-align: center;
+    color: #e6b219;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
 #button {
     display: inline-block;
     background-color: #FF9800;
